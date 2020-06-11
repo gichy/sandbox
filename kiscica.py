@@ -1,1 +1,1 @@
-print("nem szeretem a kiscicákat")
+print("szeretem a kiscicákat")
