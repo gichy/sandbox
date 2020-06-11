@@ -1,1 +1,1 @@
-print("szeretem a kiscicákat")
+print("szeretem a kiscicákat és a kiskutyákat")
